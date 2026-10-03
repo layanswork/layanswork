@@ -15,4 +15,4 @@ Flutter • Dart • Firebase • HTML • CSS • JavaScript • SQL • Git �
 
 
 Featured Projects
-Projects coming soon 🚀
+Projects coming soon 🚀 
