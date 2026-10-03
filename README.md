@@ -1,9 +1,9 @@
 #Hi, I'm Layan 👋
 
 Software Engineering Graduate interested in Front-End Development, UI Development, and Software Development.
-About Me
 
 
+#About Me
 
 🎓 Software Engineering Graduate
 
@@ -19,6 +19,8 @@ About Me
 Flutter • Dart • Firebase • HTML • CSS • JavaScript • SQL • Git • GitHub
 
 
-Featured Projects
+#Featured Projects
+
+
 
 Projects coming soon 🚀 
